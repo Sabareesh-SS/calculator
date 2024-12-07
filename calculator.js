@@ -21,4 +21,3 @@ function equalsto() {
         display.value = "ERROR";
     }
 }
-
